@@ -1,0 +1,11 @@
+D:\3.felev\PROG2\progcont\Progcont\2018.okt18.Cs10\KuponCS\Kuponok\Kuponok\bin\Debug\netcoreapp3.0\Kuponok.exe
+D:\3.felev\PROG2\progcont\Progcont\2018.okt18.Cs10\KuponCS\Kuponok\Kuponok\bin\Debug\netcoreapp3.0\Kuponok.deps.json
+D:\3.felev\PROG2\progcont\Progcont\2018.okt18.Cs10\KuponCS\Kuponok\Kuponok\bin\Debug\netcoreapp3.0\Kuponok.runtimeconfig.json
+D:\3.felev\PROG2\progcont\Progcont\2018.okt18.Cs10\KuponCS\Kuponok\Kuponok\bin\Debug\netcoreapp3.0\Kuponok.runtimeconfig.dev.json
+D:\3.felev\PROG2\progcont\Progcont\2018.okt18.Cs10\KuponCS\Kuponok\Kuponok\bin\Debug\netcoreapp3.0\Kuponok.dll
+D:\3.felev\PROG2\progcont\Progcont\2018.okt18.Cs10\KuponCS\Kuponok\Kuponok\bin\Debug\netcoreapp3.0\Kuponok.pdb
+D:\3.felev\PROG2\progcont\Progcont\2018.okt18.Cs10\KuponCS\Kuponok\Kuponok\obj\Debug\netcoreapp3.0\Kuponok.csprojAssemblyReference.cache
+D:\3.felev\PROG2\progcont\Progcont\2018.okt18.Cs10\KuponCS\Kuponok\Kuponok\obj\Debug\netcoreapp3.0\Kuponok.AssemblyInfoInputs.cache
+D:\3.felev\PROG2\progcont\Progcont\2018.okt18.Cs10\KuponCS\Kuponok\Kuponok\obj\Debug\netcoreapp3.0\Kuponok.AssemblyInfo.cs
+D:\3.felev\PROG2\progcont\Progcont\2018.okt18.Cs10\KuponCS\Kuponok\Kuponok\obj\Debug\netcoreapp3.0\Kuponok.dll
+D:\3.felev\PROG2\progcont\Progcont\2018.okt18.Cs10\KuponCS\Kuponok\Kuponok\obj\Debug\netcoreapp3.0\Kuponok.pdb
