@@ -1,0 +1,11 @@
+/Users/atakacs/Documents/MindenCseppCS/mindencsepp/mindencsepp/bin/Debug/netcoreapp2.1/mindencsepp.deps.json
+/Users/atakacs/Documents/MindenCseppCS/mindencsepp/mindencsepp/bin/Debug/netcoreapp2.1/mindencsepp.runtimeconfig.json
+/Users/atakacs/Documents/MindenCseppCS/mindencsepp/mindencsepp/bin/Debug/netcoreapp2.1/mindencsepp.runtimeconfig.dev.json
+/Users/atakacs/Documents/MindenCseppCS/mindencsepp/mindencsepp/bin/Debug/netcoreapp2.1/mindencsepp.dll
+/Users/atakacs/Documents/MindenCseppCS/mindencsepp/mindencsepp/bin/Debug/netcoreapp2.1/mindencsepp.pdb
+/Users/atakacs/Documents/MindenCseppCS/mindencsepp/mindencsepp/obj/Debug/netcoreapp2.1/mindencsepp.csprojAssemblyReference.cache
+/Users/atakacs/Documents/MindenCseppCS/mindencsepp/mindencsepp/obj/Debug/netcoreapp2.1/mindencsepp.csproj.CoreCompileInputs.cache
+/Users/atakacs/Documents/MindenCseppCS/mindencsepp/mindencsepp/obj/Debug/netcoreapp2.1/mindencsepp.AssemblyInfoInputs.cache
+/Users/atakacs/Documents/MindenCseppCS/mindencsepp/mindencsepp/obj/Debug/netcoreapp2.1/mindencsepp.AssemblyInfo.cs
+/Users/atakacs/Documents/MindenCseppCS/mindencsepp/mindencsepp/obj/Debug/netcoreapp2.1/mindencsepp.dll
+/Users/atakacs/Documents/MindenCseppCS/mindencsepp/mindencsepp/obj/Debug/netcoreapp2.1/mindencsepp.pdb
