@@ -1,0 +1,11 @@
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\PrimvalogatasCS\Primvalogatas\Primvalogatas\bin\Debug\netcoreapp3.0\Primvalogatas.exe
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\PrimvalogatasCS\Primvalogatas\Primvalogatas\bin\Debug\netcoreapp3.0\Primvalogatas.deps.json
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\PrimvalogatasCS\Primvalogatas\Primvalogatas\bin\Debug\netcoreapp3.0\Primvalogatas.runtimeconfig.json
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\PrimvalogatasCS\Primvalogatas\Primvalogatas\bin\Debug\netcoreapp3.0\Primvalogatas.runtimeconfig.dev.json
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\PrimvalogatasCS\Primvalogatas\Primvalogatas\bin\Debug\netcoreapp3.0\Primvalogatas.dll
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\PrimvalogatasCS\Primvalogatas\Primvalogatas\bin\Debug\netcoreapp3.0\Primvalogatas.pdb
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\PrimvalogatasCS\Primvalogatas\Primvalogatas\obj\Debug\netcoreapp3.0\Primvalogatas.csprojAssemblyReference.cache
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\PrimvalogatasCS\Primvalogatas\Primvalogatas\obj\Debug\netcoreapp3.0\Primvalogatas.AssemblyInfoInputs.cache
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\PrimvalogatasCS\Primvalogatas\Primvalogatas\obj\Debug\netcoreapp3.0\Primvalogatas.AssemblyInfo.cs
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\PrimvalogatasCS\Primvalogatas\Primvalogatas\obj\Debug\netcoreapp3.0\Primvalogatas.dll
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\PrimvalogatasCS\Primvalogatas\Primvalogatas\obj\Debug\netcoreapp3.0\Primvalogatas.pdb

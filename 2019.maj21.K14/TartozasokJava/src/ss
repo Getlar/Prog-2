@@ -1,0 +1,10 @@
+Set<Student> stt = new TreeSet<>(new Comparator<Student>() {
+            @Override
+            public int compare(Student o1, Student o2) {
+                int res = Integer.compare(o1.age,o2.age);
+                if (res != 0) {
+                    return res;
+                }
+                return o1.neptunCode.compareTo(o2.neptunCode);
+            }
+        });

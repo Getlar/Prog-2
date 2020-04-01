@@ -1,0 +1,10 @@
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\Tartozasok\Tartozasok\Tartozasok\bin\Debug\netcoreapp3.0\Tartozasok.exe
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\Tartozasok\Tartozasok\Tartozasok\bin\Debug\netcoreapp3.0\Tartozasok.deps.json
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\Tartozasok\Tartozasok\Tartozasok\bin\Debug\netcoreapp3.0\Tartozasok.runtimeconfig.json
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\Tartozasok\Tartozasok\Tartozasok\bin\Debug\netcoreapp3.0\Tartozasok.runtimeconfig.dev.json
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\Tartozasok\Tartozasok\Tartozasok\bin\Debug\netcoreapp3.0\Tartozasok.dll
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\Tartozasok\Tartozasok\Tartozasok\bin\Debug\netcoreapp3.0\Tartozasok.pdb
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\Tartozasok\Tartozasok\Tartozasok\obj\Debug\netcoreapp3.0\Tartozasok.AssemblyInfoInputs.cache
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\Tartozasok\Tartozasok\Tartozasok\obj\Debug\netcoreapp3.0\Tartozasok.AssemblyInfo.cs
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\Tartozasok\Tartozasok\Tartozasok\obj\Debug\netcoreapp3.0\Tartozasok.dll
+D:\3.felev\PROG2\progcont\Progcont\2019.maj21.K14\Tartozasok\Tartozasok\Tartozasok\obj\Debug\netcoreapp3.0\Tartozasok.pdb
