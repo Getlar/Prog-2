@@ -1,0 +1,11 @@
+/Users/atakacs/Documents/Vs/AngyalkakCS/AngyalkakCS/bin/Debug/netcoreapp3.0/AngyalkakCS
+/Users/atakacs/Documents/Vs/AngyalkakCS/AngyalkakCS/bin/Debug/netcoreapp3.0/AngyalkakCS.deps.json
+/Users/atakacs/Documents/Vs/AngyalkakCS/AngyalkakCS/bin/Debug/netcoreapp3.0/AngyalkakCS.runtimeconfig.json
+/Users/atakacs/Documents/Vs/AngyalkakCS/AngyalkakCS/bin/Debug/netcoreapp3.0/AngyalkakCS.runtimeconfig.dev.json
+/Users/atakacs/Documents/Vs/AngyalkakCS/AngyalkakCS/bin/Debug/netcoreapp3.0/AngyalkakCS.dll
+/Users/atakacs/Documents/Vs/AngyalkakCS/AngyalkakCS/bin/Debug/netcoreapp3.0/AngyalkakCS.pdb
+/Users/atakacs/Documents/Vs/AngyalkakCS/AngyalkakCS/obj/Debug/netcoreapp3.0/AngyalkakCS.csprojAssemblyReference.cache
+/Users/atakacs/Documents/Vs/AngyalkakCS/AngyalkakCS/obj/Debug/netcoreapp3.0/AngyalkakCS.AssemblyInfoInputs.cache
+/Users/atakacs/Documents/Vs/AngyalkakCS/AngyalkakCS/obj/Debug/netcoreapp3.0/AngyalkakCS.AssemblyInfo.cs
+/Users/atakacs/Documents/Vs/AngyalkakCS/AngyalkakCS/obj/Debug/netcoreapp3.0/AngyalkakCS.dll
+/Users/atakacs/Documents/Vs/AngyalkakCS/AngyalkakCS/obj/Debug/netcoreapp3.0/AngyalkakCS.pdb

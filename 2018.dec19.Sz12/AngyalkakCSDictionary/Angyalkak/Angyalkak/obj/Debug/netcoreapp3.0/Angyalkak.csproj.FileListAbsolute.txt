@@ -1,0 +1,11 @@
+D:\3.felev\PROG2\progcont\Progcont\2018.dec19.Sz12\AngyalkakCSDictionary\Angyalkak\Angyalkak\bin\Debug\netcoreapp3.0\Angyalkak.exe
+D:\3.felev\PROG2\progcont\Progcont\2018.dec19.Sz12\AngyalkakCSDictionary\Angyalkak\Angyalkak\bin\Debug\netcoreapp3.0\Angyalkak.deps.json
+D:\3.felev\PROG2\progcont\Progcont\2018.dec19.Sz12\AngyalkakCSDictionary\Angyalkak\Angyalkak\bin\Debug\netcoreapp3.0\Angyalkak.runtimeconfig.json
+D:\3.felev\PROG2\progcont\Progcont\2018.dec19.Sz12\AngyalkakCSDictionary\Angyalkak\Angyalkak\bin\Debug\netcoreapp3.0\Angyalkak.runtimeconfig.dev.json
+D:\3.felev\PROG2\progcont\Progcont\2018.dec19.Sz12\AngyalkakCSDictionary\Angyalkak\Angyalkak\bin\Debug\netcoreapp3.0\Angyalkak.dll
+D:\3.felev\PROG2\progcont\Progcont\2018.dec19.Sz12\AngyalkakCSDictionary\Angyalkak\Angyalkak\bin\Debug\netcoreapp3.0\Angyalkak.pdb
+D:\3.felev\PROG2\progcont\Progcont\2018.dec19.Sz12\AngyalkakCSDictionary\Angyalkak\Angyalkak\obj\Debug\netcoreapp3.0\Angyalkak.csprojAssemblyReference.cache
+D:\3.felev\PROG2\progcont\Progcont\2018.dec19.Sz12\AngyalkakCSDictionary\Angyalkak\Angyalkak\obj\Debug\netcoreapp3.0\Angyalkak.AssemblyInfoInputs.cache
+D:\3.felev\PROG2\progcont\Progcont\2018.dec19.Sz12\AngyalkakCSDictionary\Angyalkak\Angyalkak\obj\Debug\netcoreapp3.0\Angyalkak.AssemblyInfo.cs
+D:\3.felev\PROG2\progcont\Progcont\2018.dec19.Sz12\AngyalkakCSDictionary\Angyalkak\Angyalkak\obj\Debug\netcoreapp3.0\Angyalkak.dll
+D:\3.felev\PROG2\progcont\Progcont\2018.dec19.Sz12\AngyalkakCSDictionary\Angyalkak\Angyalkak\obj\Debug\netcoreapp3.0\Angyalkak.pdb
