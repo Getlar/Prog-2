@@ -1,0 +1,11 @@
+/Users/atakacs/Documents/LottoCS/lottozas/lottozas/bin/Debug/netcoreapp2.1/lottozas.deps.json
+/Users/atakacs/Documents/LottoCS/lottozas/lottozas/bin/Debug/netcoreapp2.1/lottozas.runtimeconfig.json
+/Users/atakacs/Documents/LottoCS/lottozas/lottozas/bin/Debug/netcoreapp2.1/lottozas.runtimeconfig.dev.json
+/Users/atakacs/Documents/LottoCS/lottozas/lottozas/bin/Debug/netcoreapp2.1/lottozas.dll
+/Users/atakacs/Documents/LottoCS/lottozas/lottozas/bin/Debug/netcoreapp2.1/lottozas.pdb
+/Users/atakacs/Documents/LottoCS/lottozas/lottozas/obj/Debug/netcoreapp2.1/lottozas.csprojAssemblyReference.cache
+/Users/atakacs/Documents/LottoCS/lottozas/lottozas/obj/Debug/netcoreapp2.1/lottozas.csproj.CoreCompileInputs.cache
+/Users/atakacs/Documents/LottoCS/lottozas/lottozas/obj/Debug/netcoreapp2.1/lottozas.AssemblyInfoInputs.cache
+/Users/atakacs/Documents/LottoCS/lottozas/lottozas/obj/Debug/netcoreapp2.1/lottozas.AssemblyInfo.cs
+/Users/atakacs/Documents/LottoCS/lottozas/lottozas/obj/Debug/netcoreapp2.1/lottozas.dll
+/Users/atakacs/Documents/LottoCS/lottozas/lottozas/obj/Debug/netcoreapp2.1/lottozas.pdb

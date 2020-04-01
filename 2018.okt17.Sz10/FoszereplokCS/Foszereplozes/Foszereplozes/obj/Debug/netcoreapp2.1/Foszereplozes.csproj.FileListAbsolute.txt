@@ -1,0 +1,11 @@
+/Users/atakacs/Documents/FoszereplokCS/Foszereplozes/Foszereplozes/bin/Debug/netcoreapp2.1/Foszereplozes.deps.json
+/Users/atakacs/Documents/FoszereplokCS/Foszereplozes/Foszereplozes/bin/Debug/netcoreapp2.1/Foszereplozes.runtimeconfig.json
+/Users/atakacs/Documents/FoszereplokCS/Foszereplozes/Foszereplozes/bin/Debug/netcoreapp2.1/Foszereplozes.runtimeconfig.dev.json
+/Users/atakacs/Documents/FoszereplokCS/Foszereplozes/Foszereplozes/bin/Debug/netcoreapp2.1/Foszereplozes.dll
+/Users/atakacs/Documents/FoszereplokCS/Foszereplozes/Foszereplozes/bin/Debug/netcoreapp2.1/Foszereplozes.pdb
+/Users/atakacs/Documents/FoszereplokCS/Foszereplozes/Foszereplozes/obj/Debug/netcoreapp2.1/Foszereplozes.csprojAssemblyReference.cache
+/Users/atakacs/Documents/FoszereplokCS/Foszereplozes/Foszereplozes/obj/Debug/netcoreapp2.1/Foszereplozes.csproj.CoreCompileInputs.cache
+/Users/atakacs/Documents/FoszereplokCS/Foszereplozes/Foszereplozes/obj/Debug/netcoreapp2.1/Foszereplozes.AssemblyInfoInputs.cache
+/Users/atakacs/Documents/FoszereplokCS/Foszereplozes/Foszereplozes/obj/Debug/netcoreapp2.1/Foszereplozes.AssemblyInfo.cs
+/Users/atakacs/Documents/FoszereplokCS/Foszereplozes/Foszereplozes/obj/Debug/netcoreapp2.1/Foszereplozes.dll
+/Users/atakacs/Documents/FoszereplokCS/Foszereplozes/Foszereplozes/obj/Debug/netcoreapp2.1/Foszereplozes.pdb
