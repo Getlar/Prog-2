@@ -1,0 +1,11 @@
+D:\3.felev\PROG2\progcont\Progcont\2016.maj24.K8\MozisztarokSzarnyelvenMAPPAL\Mozisztarok\Mozisztarok\bin\Debug\netcoreapp3.0\Mozisztarok.exe
+D:\3.felev\PROG2\progcont\Progcont\2016.maj24.K8\MozisztarokSzarnyelvenMAPPAL\Mozisztarok\Mozisztarok\bin\Debug\netcoreapp3.0\Mozisztarok.deps.json
+D:\3.felev\PROG2\progcont\Progcont\2016.maj24.K8\MozisztarokSzarnyelvenMAPPAL\Mozisztarok\Mozisztarok\bin\Debug\netcoreapp3.0\Mozisztarok.runtimeconfig.json
+D:\3.felev\PROG2\progcont\Progcont\2016.maj24.K8\MozisztarokSzarnyelvenMAPPAL\Mozisztarok\Mozisztarok\bin\Debug\netcoreapp3.0\Mozisztarok.runtimeconfig.dev.json
+D:\3.felev\PROG2\progcont\Progcont\2016.maj24.K8\MozisztarokSzarnyelvenMAPPAL\Mozisztarok\Mozisztarok\bin\Debug\netcoreapp3.0\Mozisztarok.dll
+D:\3.felev\PROG2\progcont\Progcont\2016.maj24.K8\MozisztarokSzarnyelvenMAPPAL\Mozisztarok\Mozisztarok\bin\Debug\netcoreapp3.0\Mozisztarok.pdb
+D:\3.felev\PROG2\progcont\Progcont\2016.maj24.K8\MozisztarokSzarnyelvenMAPPAL\Mozisztarok\Mozisztarok\obj\Debug\netcoreapp3.0\Mozisztarok.csprojAssemblyReference.cache
+D:\3.felev\PROG2\progcont\Progcont\2016.maj24.K8\MozisztarokSzarnyelvenMAPPAL\Mozisztarok\Mozisztarok\obj\Debug\netcoreapp3.0\Mozisztarok.AssemblyInfoInputs.cache
+D:\3.felev\PROG2\progcont\Progcont\2016.maj24.K8\MozisztarokSzarnyelvenMAPPAL\Mozisztarok\Mozisztarok\obj\Debug\netcoreapp3.0\Mozisztarok.AssemblyInfo.cs
+D:\3.felev\PROG2\progcont\Progcont\2016.maj24.K8\MozisztarokSzarnyelvenMAPPAL\Mozisztarok\Mozisztarok\obj\Debug\netcoreapp3.0\Mozisztarok.dll
+D:\3.felev\PROG2\progcont\Progcont\2016.maj24.K8\MozisztarokSzarnyelvenMAPPAL\Mozisztarok\Mozisztarok\obj\Debug\netcoreapp3.0\Mozisztarok.pdb

@@ -1,0 +1,11 @@
+D:\3.felev\PROG2\progcont\Progcont\2014.dec15.H14\karacsony\KaracsonyiHozz\KaracsonyiHozz\bin\Debug\netcoreapp3.0\KaracsonyiHozz.exe
+D:\3.felev\PROG2\progcont\Progcont\2014.dec15.H14\karacsony\KaracsonyiHozz\KaracsonyiHozz\bin\Debug\netcoreapp3.0\KaracsonyiHozz.deps.json
+D:\3.felev\PROG2\progcont\Progcont\2014.dec15.H14\karacsony\KaracsonyiHozz\KaracsonyiHozz\bin\Debug\netcoreapp3.0\KaracsonyiHozz.runtimeconfig.json
+D:\3.felev\PROG2\progcont\Progcont\2014.dec15.H14\karacsony\KaracsonyiHozz\KaracsonyiHozz\bin\Debug\netcoreapp3.0\KaracsonyiHozz.runtimeconfig.dev.json
+D:\3.felev\PROG2\progcont\Progcont\2014.dec15.H14\karacsony\KaracsonyiHozz\KaracsonyiHozz\bin\Debug\netcoreapp3.0\KaracsonyiHozz.dll
+D:\3.felev\PROG2\progcont\Progcont\2014.dec15.H14\karacsony\KaracsonyiHozz\KaracsonyiHozz\bin\Debug\netcoreapp3.0\KaracsonyiHozz.pdb
+D:\3.felev\PROG2\progcont\Progcont\2014.dec15.H14\karacsony\KaracsonyiHozz\KaracsonyiHozz\obj\Debug\netcoreapp3.0\KaracsonyiHozz.csprojAssemblyReference.cache
+D:\3.felev\PROG2\progcont\Progcont\2014.dec15.H14\karacsony\KaracsonyiHozz\KaracsonyiHozz\obj\Debug\netcoreapp3.0\KaracsonyiHozz.AssemblyInfoInputs.cache
+D:\3.felev\PROG2\progcont\Progcont\2014.dec15.H14\karacsony\KaracsonyiHozz\KaracsonyiHozz\obj\Debug\netcoreapp3.0\KaracsonyiHozz.AssemblyInfo.cs
+D:\3.felev\PROG2\progcont\Progcont\2014.dec15.H14\karacsony\KaracsonyiHozz\KaracsonyiHozz\obj\Debug\netcoreapp3.0\KaracsonyiHozz.dll
+D:\3.felev\PROG2\progcont\Progcont\2014.dec15.H14\karacsony\KaracsonyiHozz\KaracsonyiHozz\obj\Debug\netcoreapp3.0\KaracsonyiHozz.pdb
